@@ -1,0 +1,5 @@
+@import url("activities.css");
+
+.page-header.dark {
+    background: linear-gradient(135deg, #020617, #0F766E);
+}
